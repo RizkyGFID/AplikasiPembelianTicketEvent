@@ -25,4 +25,4 @@ Selanjutnya disini ada mockup serta UI/UX Prototype video nya
 
 <img src="Mockup.png" alt="Board" width="400">
 
-<video src="url_video_anda.mp4" autoplay muted></video>
+<video src="km_UI UX Prototype APK_720p_60f_20251108_012304.mp4" autoplay muted></video>
