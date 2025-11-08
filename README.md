@@ -25,4 +25,4 @@ Selanjutnya disini ada mockup serta UI/UX Prototype video nya
 
 <img src="Mockup.png" alt="Board" width="400">
 
-[![Judul Video](https://img.youtube.com/vi/ID_VIDEO/0.jpg)](https://www.youtube.com/watch?v=_OFfhv6Ad_g)
+[![Video Prototype UI-UX](https://img.youtube.com/vi/ID_VIDEO/0.jpg)](https://www.youtube.com/watch?v=_OFfhv6Ad_g)
